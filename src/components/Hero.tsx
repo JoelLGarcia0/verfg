@@ -101,7 +101,7 @@ export default function Hero() {
             {/* RIGHT PANEL */}
             <div className="relative min-h-[320px] md:min-h-[420px] lg:min-h-0">
               <Image
-                src="/images/hero3.jpg"
+                src="/images/hero4.jpeg"
                 alt="Tax preparation and accounting services"
                 fill
                 priority
