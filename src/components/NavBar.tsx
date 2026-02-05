@@ -119,7 +119,7 @@ export default function Navbar() {
 
         {/* Mobile menu overlay (does not change header height) */}
         {mobileMenuOpen && (
-          <div className="md:hidden absolute top-full inset-x-0 bg-offwhite/95 backdrop-blur-md border-t border-black/10">
+          <div className="md:hidden absolute top-full inset-x-0 bg-offwhite/95 backdrop-blur-md border-black/10">
             <div className="px-6 py-4">
               <ul className="space-y-3">
                 {[
