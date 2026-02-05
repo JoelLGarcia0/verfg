@@ -28,11 +28,6 @@ export default function Home() {
               Why Choose VERA?
             </h2>
 
-            <p className="body-font mt-3 text-gray-700 max-w-2xl mx-auto md:ml-auto md:mr-0">
-              Precision, strategy, and compliance—delivered with a modern,
-              client-first process.
-            </p>
-
             <div className="mt-5 mx-auto md:ml-auto md:mr-0 h-px w-24 bg-darkred/20" />
           </div>
 
