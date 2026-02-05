@@ -22,13 +22,8 @@ export default function Home() {
           className="pointer-events-none absolute -top-40 left-[-140px] h-[420px] w-[420px] bg-darkred/10 blur-3xl"
         />
 
-        <div className="relative mx-auto max-w-7xl px-6 md:px-10 py-10 md:py-14">
+        <div className="relative mx-auto max-w-7xl px-6 md:px-10">
           <div className="mb-6 md:mb-8 text-center md:text-right">
-            <h2 className="title-font text-3xl md:text-4xl lg:text-5xl text-darkred">
-              Why Choose VERA?
-            </h2>
-
-            <div className="mt-5 mx-auto md:ml-auto md:mr-0 h-px w-24 bg-darkred/20" />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
@@ -156,7 +151,7 @@ export default function Home() {
           </div>
 
           <div className="max-w-4xl mx-auto text-center mt-10 md:mt-12">
-            <p className="body-font text-base md:text-lg text-gray-800 leading-relaxed">
+            <p className="body-font text-base md:text-lg text-gray-800 leading-relaxed mb-14">
               At VERA Financial Group, we combine precision, strategy, and
               compliance to help you navigate accounting and tax needs with
               peace of mind—empowering confident decisions that drive growth.

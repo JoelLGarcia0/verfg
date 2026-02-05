@@ -26,7 +26,7 @@ export default function Contact() {
       </section>
 
       {/* Contact Form */}
-      <section className="py-10 md:py-14">
+      <section className="py-8 md:py-10">
         <div className="mx-auto max-w-3xl px-6 md:px-10">
           <div className="bg-white p-8 md:p-12 border border-black/5 shadow-sm">
             <ContactForm />

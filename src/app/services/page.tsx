@@ -18,7 +18,7 @@ export default function Services() {
       </section>
 
       {/* Services Grid (3 boxes) */}
-      <section className="py-10 md:py-14">
+      <section className="py-8 md:py-10">
         <div className="mx-auto max-w-7xl px-6 md:px-10">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
             {/* 1) Tax Preparation & Planning */}
