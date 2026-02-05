@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   title: "VERA Financial Group - Beyond Accounting",
   description:
     "Professional accounting and financial services. We build financial confidence through precision, strategy, and compliance.",
+  icons: {
+    icon: "/icons/favicon.ico",
+  },
 };
 
 export default function RootLayout({
